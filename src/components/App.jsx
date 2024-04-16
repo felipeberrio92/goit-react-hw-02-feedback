@@ -12,6 +12,7 @@ export default class App extends Component {
     neutral: 0,
     bad: 0,
   };
+  
   constructor() {
     super();
     this.countPositiveFeedbackPercentage =
